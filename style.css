@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;500;600&family=Work+Sans:wght@200;500;700;900&family=Yeseva+One&display=swap');
+.logo{
+    width: 180px;
+}
+body{
+    background: #FFF;
+}
+
+h1{
+    font-family: Bebas Neue;
+}
+.color{
+    color: #FABE4C;
+}
+.btn1{
+    border-radius: 10px;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    padding: 12px 28px;
+    border: none;
+    color: white;
+}
+.header{
+    background: #FFFBF0;
+}
+.product{
+    width: 31%;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.p-img{
+    width: 280px;
+    border-radius: 20px;
+    background: #F1F1F1;
+}
+.pox{
+    width: 120px;
+    margin-right: 8px;
+}
+.ans{
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+}
+.shop-img{
+    max-width: 100%;
+}
